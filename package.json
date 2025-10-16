@@ -16,5 +16,10 @@
     "@dcloudio/vite-plugin-uni": "3.0.0-4070620250821001",
     "@vue/runtime-core": "^3.4.21",
     "vite": "5.2.8"
+  },
+  "pnpm": {
+    "overrides": {
+      "vue-router": "4.5.1"
+    }
   }
 }
